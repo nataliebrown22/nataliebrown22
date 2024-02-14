@@ -1,4 +1,4 @@
-# About Me
+# Hi There!
 - 👋 Hi, I’m @nataliebrown22
 - 👀 I’m interested in coding and optimization models
 - 🌱 I’m currently learning Python and SQL
