@@ -1,11 +1,11 @@
 # Hi There!
 - 👋 Hi, I’m @nataliebrown22
-- 👀 I’m interested in coding and optimization models
+- 👀 I’m interested in machine learning models and story telling with data!
 - 🎓 I am a 4th year student at the University of Iowa studying Business Analytics and Finance with plans to graduate May 2025
-- 🌱 I’m currently learning Python, SQL, ORANGE, PowerBI, and Tableau
+- 🌱 I am proficient in Python, ORANGE, PowerBI, and Tableau
 - 📫 How to reach me, email: namb2002@outlook.com
 - 😄 Pronouns: She / Her
-- ⚡ Fun fact: I go to Colorado every year for a ski trip!
+- ⚡ Fun fact: I go to Colorado every year for a ski trip and love all things soccer!
 
 <!---
 nataliebrown22/nataliebrown22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
