@@ -5,7 +5,7 @@
 - 🌱 I am proficient in Python, ORANGE, PowerBI, and Tableau
 - 📫 How to reach me, email: namb2002@outlook.com
 - 😄 Pronouns: She / Her
-- ⚡ Fun fact: I go to Colorado every year for a ski trip and love all things soccer!
+- ⚡ Fun fact: I go to Colorado every year for a ski trip, love all things soccer, and have a passion for sports analytics!
 
 <!---
 nataliebrown22/nataliebrown22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
